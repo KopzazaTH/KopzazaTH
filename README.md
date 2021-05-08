@@ -10,6 +10,10 @@ Moderator on [Polar Community](https://discord.gg/XNXtqXXNVe), [NaeLike](https:/
 
 **Contact me on Discord: Deleted UserV2#6258**
 
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KopzazaTH&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kopzazath" />
+</p>
+
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
 
