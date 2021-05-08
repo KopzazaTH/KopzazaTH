@@ -1,6 +1,3 @@
-<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
-
 # KopzazaTH
 Moderator on [Polar Community](https://discord.gg/XNXtqXXNVe), [NaeLike Discoed](https://twitter.com/slicklearn) 
 
