@@ -1,3 +1,6 @@
+<img align='left' src='https://i.pinimg.com/originals/3a/5b/3f/3a5b3f2d0efc7fb981d4cbae6bf05d75.gif' width='20%'>  
+<img align='right' src='https://i.pinimg.com/originals/3a/5b/3f/3a5b3f2d0efc7fb981d4cbae6bf05d75.gif' width='20%'>  
+
 # KopzazaTH
 Moderator on [Polar Community](https://discord.gg/XNXtqXXNVe), [NaeLike Discoed](https://twitter.com/slicklearn) 
 
