@@ -4,7 +4,7 @@
 # KopzazaTH
 Moderator on [Polar Community](https://discord.gg/XNXtqXXNVe), [NaeLike](https://discord.gg/gYZKtQQ4sZ) and [DDoS >.<](https://discord.gg/zUp2sakN9W)  
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
+🧾 Scripter Roblox Hack Script, NodeJS Webpentesting and etc ..
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 
