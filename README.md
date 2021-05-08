@@ -1,7 +1,7 @@
-<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
+<img align='left' src='https://media.tenor.com/images/c7a184cc2968fd3be2b97ca74c0646e9/tenor.gif' width='30%'>  
+<img align='right' src='https://media.tenor.com/images/c7a184cc2968fd3be2b97ca74c0646e9/tenor.gif' width='30%'>  
 
-# BIO
+# KopzazaTH
 CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork)  
 
 🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
