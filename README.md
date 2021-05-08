@@ -1,14 +1,14 @@
 <img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
-# BIO
-CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork)  
+# KopzazaTH
+Moderator on [Polar Community](https://discord.gg/XNXtqXXNVe), [NaeLike Discoed](https://twitter.com/slicklearn) 
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
+📄 Lua, Javascript, PHP Developer
   
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=KopzazaTH&color=00e5ff)
 
-**Contact me on Discord: Sammwy#0001**
+**Contact me on Discord: Deleted UserV2#6258**
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
