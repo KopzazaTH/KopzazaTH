@@ -1,5 +1,5 @@
-<img align='left' src='' width='20%'>  
-<img align='right' src='' width='20%'>  
+<img align='left' src='https://i.vgy.me/FmsxyX.gif' width='20%'>  
+<img align='right' src='https://i.vgy.me/FmsxyX.gif' width='20%'>  
 
 # KopzazaTH
 Moderator on [Polar Community](https://discord.gg/XNXtqXXNVe), [NaeLike Discoed](https://twitter.com/slicklearn) 
